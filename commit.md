@@ -1,1 +1,1 @@
-feat: enable  mode and cleanup the code on 7/14/2017
+fix: merge with master on 7/18/2017
