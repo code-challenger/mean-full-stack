@@ -1,1 +1,1 @@
-Fixing npm installation on 8/3/2017
+Fixing npm installation on 8/1/2017
