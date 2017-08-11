@@ -1,1 +1,1 @@
-Fixing style.scss on 8/8/2017
+layout change - update footer on 8/11/2017
