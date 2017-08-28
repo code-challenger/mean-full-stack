@@ -1,1 +1,1 @@
-Updated concurrently syntax on 8/30/2017
+Updated concurrently syntax on 8/28/2017
