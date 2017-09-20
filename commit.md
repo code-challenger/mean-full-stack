@@ -1,1 +1,1 @@
-CSS - Export/Import button on 9/15/2017
+CSS - placeholer color on 9/20/2017
