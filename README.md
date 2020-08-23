@@ -1,1 +1,2 @@
-# mean-full-stack
+# MEAN
+MEAN Full Stack
